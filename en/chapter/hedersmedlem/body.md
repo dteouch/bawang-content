@@ -1,32 +1,32 @@
-The computer science chapters honorary members
+The computer science chapter's honorary members
 ------------------------------
 
-An honorary member is a person that has especially supported the chapters interests and aspirations. To nominate a honorary member a motion is sent to the d-Directorate with a motivation, so that it can be brought up on the next chapter meeting for descision.
+An honorary member is a person that has greatly supported the chapter's interests and aspirations. To nominate a honorary member, a motion is sent to the d-Directorate with a motivation, so that it can be brought up during the next chapter meeting for decision.
 
 ## Members
 
--   Helen Lindkvist, Student counselor Media technology, 2015
--   Alicja Lissenko, Student counselor Computer science, 2015
--   Kjelle och Heidi, Wardens, 2015
+-   Helen Lindkvist, Student Counsellor for Media Technology, 2015
+-   Alicja Lissenko, Student Counsellor Computer Science, 2015
+-   Kjelle and Heidi, Wardens, 2015
 -   Lena Edvardsson, 2013
 -   Stefan Nilsson, 2013
 -   Henrik Eriksson, 2012
--   Britt Isaksson, Student counselor Computer science, 2008
--   Stefan Arnborg, Program responsible Computer science, 2005
--   Inger Larsson, Head of offices, 1997
+-   Britt Isaksson, Student Counsellor for Computer Science, 2008
+-   Stefan Arnborg, Program Responsible for Computer Science, 2005
+-   Inger Larsson, Chancery, 1997
 -   Yngve Sundblad, former Prodekanus, 1988
--   Stefan Östlund, Electrical engineering, 1983
--   Katrin Rosenqvist, Engineering physics, 1983
--   Johan Groth, Engineering physics, 1983
+-   Stefan Östlund, Electrical Engineering, 1983
+-   Katrin Rosenqvist, Engineering Physics, 1983
+-   Johan Groth, Engineering Physics, 1983
 
-### Helen Lindkvist och Alicja Lissenko
+### Helen Lindkvist and Alicja Lissenko
 
-Våra studievägledare gör helt otroligt mycket för att hjälpa sektionsaktiva studenter med att
-få studierna att gå ihop. De förtjänar ett tack.
+Our student counsellors do incredible work in helping students of the chapter 
+improve their studies. They deserve our gratitude.
 
 ### Kjelle och Heidi
 
-Vissa är bättre än andra.
+Some are better than others.
 
 ### Lena Edvardsson
 
@@ -38,10 +38,10 @@ Vissa är bättre än andra.
 
 ### Henrik Eriksson
 
-Henrik Eriksson har i många års tid varit en nära vän till sektionen.
-Han har bland annat ställt upp för sektionens Mottagning ett otal
-gånger, hållt sci-fi-föredrag i ESCapen, delat ut böcker samt deltagit i
-många andra aktiviteter vid sektionen. Dock har sektionen framförallt
+Henrik Eriksson has been a close friend of the chapter for many years.
+He has, among other things, participated in organizing the Student Reception
+a great number of times, held sci-fi-lectures in ESCapen, handed out books and
+supported numerous other activities within our chapter. Dock har sektionen framförallt
 Henrik att tacka för hans goda pedagogik och inspirerande engagemang i
 de många kurser han hållt för oss dataloger genom åren. Henrik är alltid
 öppen, glad och trevlig mot oss studenter samt har alltid vårt bästa i
